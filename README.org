@@ -1,0 +1,10 @@
+#+TITLE: Useful snippets
+#+AUTHOR: Bibek Pokharel (pokharel@usc.edu)
+
+To install put the following in your emacs init file. 
+
+#+BEGIN_SRC elisp
+(setq yas-snippet-dirs (quote ("snippet directory")))
+#+END_SRC
+
+Assuming that you have yasnippet installed, you can get a list of snippets using ~yas-describe-tables~ function
