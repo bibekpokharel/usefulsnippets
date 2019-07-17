@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: begin-code
+# key: begin
+# --
+\begin{$1}
+$2
+\end{$1}
+$0

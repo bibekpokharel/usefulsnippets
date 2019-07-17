@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: tracking-runs
+# key: track
+# --
+- ${1:Description}
+  + values: $2
+  + script: $3
+  + token: $4
+  + screen: $5
+  + machine: $6
+  + start time: $7
+  + progress: $0

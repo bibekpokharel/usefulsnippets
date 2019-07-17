@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: bold vector dot product
+# key: bd
+# --
+\mathbf{$1} \cdot \mathbf{$2}$0

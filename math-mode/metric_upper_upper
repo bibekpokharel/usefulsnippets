@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: metric_upper_upper
+# key: guu
+# --
+${1:g}^{${2:\mu} ${3:\nu}}$0

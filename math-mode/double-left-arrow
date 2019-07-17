@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: double-left-arrow
+# key: Larr
+# --
+\Leftarrow

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: derivative  
+# key: dd
+# --
+\frac{d ${1:num}}{d ${2:den}}$0

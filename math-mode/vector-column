@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: vector-column
+# key: vecol
+# --
+\left ( \begin{array}{c} ${1:v_{1}} \\\ ${2:v_{2}} \end{array} \right )$0

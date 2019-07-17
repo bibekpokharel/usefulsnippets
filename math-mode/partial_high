@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: partial_high
+# key: du
+# --
+\partial^{${1:\mu}}$0

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: equation-unnumbered
+# key: ee
+# --
+\[ $1 \]$0

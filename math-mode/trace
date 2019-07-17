@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: trace
+# key: tr
+# --
+\text{Tr}\left[ $1 \right]$0

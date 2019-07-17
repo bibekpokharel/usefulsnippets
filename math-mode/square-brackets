@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: square-brackets
+# key: []
+# --
+\left[ ${1:x} \right] $0

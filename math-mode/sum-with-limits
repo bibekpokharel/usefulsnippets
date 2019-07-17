@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: sum-with-limits
+# key: suml
+# --
+\sum\limits_{${1:n}}$0

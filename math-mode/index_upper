@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: index_upper
+# key: xu
+# --
+${1:x}^{${2:\mu}}$0

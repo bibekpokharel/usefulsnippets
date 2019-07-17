@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: noweb-python
+# key: webpy
+# --
+#+NAME: $1
+#+BEGIN_SRC python :results output code :timestamp t :session $2
+$0
+#+END_SRC

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: product-with-limits
+# key: prodl
+# --
+\prod\limits_{$1} $0

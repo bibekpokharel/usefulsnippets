@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: derivative-second
+# key: d2
+# --
+\frac{d^2 ${1:num}}{d {${2:den}^2} $0

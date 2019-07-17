@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: read file by line
+# key: readline
+# --
+with open(${1:file}) as f:
+    ${2:lines} = f.read().splitlines()
+    $0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: anki
+# key: ax
+# --
+[$$] $1 [/$$]
+$0

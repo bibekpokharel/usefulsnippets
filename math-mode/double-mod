@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: double-mod
+# key: mod2
+# --
+\left\lVert ${1:x} \right\rVert$0

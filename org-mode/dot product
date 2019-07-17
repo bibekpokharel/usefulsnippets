@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dot product
+# key: vd
+# --
+\vec{$1} \cdot \vec{$2}$0

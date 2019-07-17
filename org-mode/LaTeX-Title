@@ -1,0 +1,24 @@
+# -*- mode: snippet -*-
+# name: LaTeX-Title
+# key: title
+# --
+#+TITLE: $1
+#+AUTHOR: Bibek Pokharel (pokharel@usc.edu)
+#+FILETAGS: :acad:
+#+latex_header: \usepackage{minted}
+#+PROPERTY: header-args :session $2
+
+$0
+
+# ------------------------------------------------------------------------------------------------------#
+
+\iffalse
+* Bibliography                                                      
+\fi
+
+\noindent\rule[0.5ex]{\linewidth}{1pt}
+
+\bibliography{/Users/bibekpokharel/Dropbox/References/my_library.bib}
+\bibliographystyle{apsrev4-1}
+
+#+Latex:\appendix

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tan
+# key: tan
+# --
+\tan \left( $1 \right)$0

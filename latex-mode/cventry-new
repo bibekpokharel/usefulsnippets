@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cventry
+# key: cv
+# --
+\cventry{${1:years}}{${2:degree/job title}}{${3:institution/employer}}{${4:description}}{${5:optional}}{${6:optional2}}
+$0
+    

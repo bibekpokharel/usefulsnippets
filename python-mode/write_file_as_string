@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: write file as string
+# key: writestring
+# --
+with open(${1:file}, 'w') as f:  
+    f.write(${1:string})

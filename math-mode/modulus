@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: modulus
+# key: mod
+# --
+\left| $1 \right|$0

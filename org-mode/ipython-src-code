@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ipython-src-code
+# key: ipython
+# --
+#+BEGIN_SRC ipython :session mysession :exports both :results raw drawer
+$0
+#+END_SRC

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: metric_upper_lower
+# key: gul
+# --
+${1:g}^{${2:\mu}}_{${3:\nu}}$0

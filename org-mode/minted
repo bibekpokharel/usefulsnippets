@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: minted
+# key: minted
+# --
+#+latex_header: \usepackage{minted}

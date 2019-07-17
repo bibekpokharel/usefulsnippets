@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ketbra
+# key: ketbra
+# --
+| ${1:\psi} \rangle \langle  ${3:\psi} | $0

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: grad
+# key: grad
+# --
+\vec{\nabla}

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: square-brackets-2
+# key: \[
+# --
+\lbrack $1 \rbrack$0

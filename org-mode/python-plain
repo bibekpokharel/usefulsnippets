@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: python-plain
+# key: pp
+# --
+#+BEGIN_SRC python :session `(insert (file-name-base (buffer-file-name)))`
+$0
+#+END_SRC

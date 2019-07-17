@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: integral
+# key: Int
+# --
+\int\limits_{${3:0}}^{${4:\infty}} ${1:f(x)} d${2:x} $0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: bibliography
+# key: bib
+# --
+bibliography:/Users/bibekpokharel/Dropbox/References/my_library.bib
+bibliographystyle:apsrev4-1

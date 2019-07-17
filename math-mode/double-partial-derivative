@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: double-partial-derivative
+# key: pd2
+# --
+\frac{\partial^2 ${1:num} }{\partial ${2:den}^2 }$0

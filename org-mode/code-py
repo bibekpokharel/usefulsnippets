@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: code-py
+# key: pycode
+# --
+#+NAME: $1
+#+BEGIN_SRC python -n -r :noweb yes :results output code :comments none :tangle $1.py :timestamp t :session $3
+$0
+#+END_SRC

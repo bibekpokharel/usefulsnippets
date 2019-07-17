@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: txt file
+# key: txt_
+# --
+#+BEGIN_SRC  -n -r :tangle $1.txt
+$0
+#+END_SRC

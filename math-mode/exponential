@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: exponential
+# key: exp
+# --
+\exp \left[ ${1:x} \right] $0

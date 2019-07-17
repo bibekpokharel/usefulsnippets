@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: subequations
+# key: se
+# --
+\begin{subequations}
+\begin{align}
+ ${1:x=y}
+\end{align}
+\end{subequations} $0

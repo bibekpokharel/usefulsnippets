@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: derivative partial
+# key: pde
+# --
+\frac{\partial ${1:x}}{\partial ${2:y}}$0

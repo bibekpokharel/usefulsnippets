@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: anki-qna
+# key: qq
+# --
+Q:: $1
+A:: $0

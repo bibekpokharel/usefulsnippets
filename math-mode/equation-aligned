@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: equation-aligned
+# key: ea
+# --
+\begin{align} 
+${1:y = mx +c}
+\end{align}
+$0

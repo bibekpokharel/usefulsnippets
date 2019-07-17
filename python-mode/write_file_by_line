@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: write file as line
+# key: writeline
+# --
+with open(${1:file}, 'w') as f:  
+    f.writelines("%s\n" % line for line in ${2:list})

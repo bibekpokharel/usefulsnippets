@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tilde
+# key: til
+# --
+\widetilde{${1:x}}$0

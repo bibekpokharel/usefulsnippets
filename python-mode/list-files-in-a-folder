@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: list-files-in-a-folder
+# key: list-files
+# --
+allfiles = os.listdir(${1:directory})$0

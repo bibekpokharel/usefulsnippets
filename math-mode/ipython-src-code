@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ipython-src-code
+# key: ipy
+# --
+#+BEGIN_SRC ipython :session mysession :exports both :results output code :async
+$0
+#+END_SRC

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: norm-squared
+# key: n2
+# --
+\left| ${1:x} \right|^2$0

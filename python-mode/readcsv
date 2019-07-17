@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: readcsv
+# key: readcsv
+# --
+with open(${1:fname}, 'r') as csvfile:
+    ${2:listname} = list( csv.reader(csvfile, delimiter=' ') )
+$0

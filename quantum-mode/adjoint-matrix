@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: adjoint-matrix
+# key: adj
+# --
+${1:a}^{\dagger}$0

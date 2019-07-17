@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: norm
+# key: norm
+# --
+\langle ${1:\psi} | ${2:\psi}  \rangle$0

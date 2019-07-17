@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: full-brackets
+# key: bbb
+# --
+\left( $1 \right)$0

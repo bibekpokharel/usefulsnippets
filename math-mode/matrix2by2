@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: matrix2by2
+# key: mat2
+# --
+\left ( \begin{array}{cc} 
+${1:x_{11}} & ${2:x_{12}} \\\
+${3:x_{21}} & ${4:x_{22}}  \end{array} \right ) $0

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: direct-product
+# key: dp
+# --
+\oplus $0

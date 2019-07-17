@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: bash_snippets
+# key: bash_
+# --
+#+BEGIN_SRC bash -n -r :tangle $1
+ $0
+#+END_SRC

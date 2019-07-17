@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: multi-part
+# key: multipart
+# --
+\left\\{ \begin{array}{ll}
+$1 & $2 \\\
+$3 & $4
+\end{array} 
+\right. $0

@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: book-info
+# key: book
+# --
+* ${1:Name of the book}
+
+By ${2:Author}
+Started on: 
+Finished on: 
+
+** Summary
+
+** Impressions

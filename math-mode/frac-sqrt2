@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: frac-sqrt2
+# key: frsq
+# --
+\frac{1}{\sqrt{2}}

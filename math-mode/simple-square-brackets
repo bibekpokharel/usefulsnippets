@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: simple-square-brackets
+# key: ss
+# --
+[ $1 ]$0

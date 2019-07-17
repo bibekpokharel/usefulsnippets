@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: single-variable
+# key: vv
+# --
+\\(${1:x}\\)$0

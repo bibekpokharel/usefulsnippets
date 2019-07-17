@@ -1,0 +1,18 @@
+# -*- mode: snippet -*-
+# name: trackibm
+# key: trackibm
+# --
+${1:Description}
+- values: $2
+- machine: =$3=
+- scripts:
+  * circuits: =$4=
+  * runs: =$5=
+  * analysis: =$6=
+- directories
+  * circuits: =$7=
+  * machine specifications: =$8=
+  * data: =$9=
+- started: $10
+- progress: $11
+$0

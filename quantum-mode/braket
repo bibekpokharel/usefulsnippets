@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: braket
+# key: braket
+# --
+\langle ${1:\psi} | ${2:X} |  ${3:\psi} \rangle$0

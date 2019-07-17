@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: full-square-brackets
+# key: sss
+# --
+\left[ $1 \right]$0

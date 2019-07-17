@@ -1,0 +1,29 @@
+# -*- mode: snippet -*-
+# name: notes-title
+# key: notes
+# --
+#+TITLE: ${1:Title}
+#+AUTHOR: ${2:Authors} @@latex:\\@@ Notes by Bibek Pokharel (pokharel@usc.edu)
+
+* Notes
+$0
+
+* Questions
+
+* Terms
+
+* Summary
+
+* Comments and Concerns
+
+* Dated Record
+
+# ------------------------------------------------------------------------------------------------------#
+
+\iffalse
+* Bibliography                                                      
+\fi
+
+\bibliography{/Users/bibekpokharel/Dropbox/References/my_library.bib}
+\bibliographystyle{apsrev4-1}
+

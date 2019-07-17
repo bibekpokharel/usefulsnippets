@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: aligned_equations
+# key: aa
+# --
+\begin{align}
+  ${1:x=y}
+\end{align}
+$0

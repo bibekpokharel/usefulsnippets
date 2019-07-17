@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: label-equation
+# key: lbe
+# --
+\label{eq:${1:x}}$0

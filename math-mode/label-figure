@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: label-figure
+# key: lbf
+# --
+#+caption: ${1:Caption} \label{fig:${2:x}}

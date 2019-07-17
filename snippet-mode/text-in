@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: text-in
+# key: txt
+# --
+${${1:1}:${2:text}} $0

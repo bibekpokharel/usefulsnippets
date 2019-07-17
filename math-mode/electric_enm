@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: electric field
+# key: ele
+# --
+\vec{E}

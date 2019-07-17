@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: writecsv
+# key: writecsv
+# --
+with open(${1:fname}, 'w') as csvfile:
+     csv.writer(csvfile, delimiter=' ').writerows(${2:listname})
+$0

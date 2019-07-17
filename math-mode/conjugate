@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: conjuate
+# key: con
+# --
+\overline{${1:z}}$0

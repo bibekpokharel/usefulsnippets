@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: python definition       
+# key: def
+# --
+# In  : ${1:description} | ${2:input example}
+# Out : ${3:description} | ${4:output example}
+def $0

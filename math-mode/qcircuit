@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: qcircuit
+# key: qci
+# --
+\Qcircuit @C=1em @R=0.7em @!R {
+& ${1:x}
+} $0  

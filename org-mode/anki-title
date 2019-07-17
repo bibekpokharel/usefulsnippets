@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: title-anki
+# key: tanki
+# --
+#+TITLE: ${1:title}
+#+DECK: ${2:main}
+#+TAGS: ${3:physics}
+#+REFS: ${4:title}
+
+
+$0

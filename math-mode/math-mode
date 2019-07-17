@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: math-mode
+# key: xx
+# --
+\[ ${1:x} \]$0

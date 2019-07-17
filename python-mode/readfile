@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: read file
+# key: readfile
+# --
+with open(${1:file}) as f:
+    ${2:lines} = f.read()
+    $0

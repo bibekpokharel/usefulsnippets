@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: sh
+# key: sh
+# --
+
+#+NAME: $1
+#+BEGIN_SRC sh -n -r :noweb yes :results output code :comments noweb :tangle yes
+$0
+#+END_SRC
